@@ -10,10 +10,10 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - BG
   - Water
   - UI
-  - 
+  - teleport
   - 
   - corrente
   - 
@@ -40,9 +40,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BG
+    uniqueID: 730976939
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
   - name: New Layer
-    uniqueID: 730976939
+    uniqueID: 2188869339
+    locked: 0
+  - name: CAMADA PELO AMOR DE DEUS
+    uniqueID: 991728315
     locked: 0
