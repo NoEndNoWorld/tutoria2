@@ -59,11 +59,16 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+<<<<<<< Updated upstream
   ignoreMasterTextureLimit: 0
+=======
+  ignoreMipmapLimit: 0
+>>>>>>> Stashed changes
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -102,6 +107,10 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 1
+<<<<<<< Updated upstream
+=======
+  swizzle: 50462976
+>>>>>>> Stashed changes
   cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
@@ -114,6 +123,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
@@ -126,6 +136,46 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
@@ -451,6 +501,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+<<<<<<< Updated upstream
       mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_11: 21300022
       mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_5: 21300010
       mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_7: 21300014
@@ -465,8 +516,23 @@ TextureImporter:
       mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_3: 21300006
       mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_9: 21300018
   spritePackingTag: 
+=======
+      mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_0: 21300000
+      mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_1: 21300002
+      mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_10: 21300020
+      mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_11: 21300022
+      mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_12: 21300024
+      mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_2: 21300004
+      mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_3: 21300006
+      mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_4: 21300008
+      mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_5: 21300010
+      mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_6: 21300012
+      mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_7: 21300014
+      mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_8: 21300016
+      mega_man_x1_vehicles_in_32_bits_by_irregularsaturn-dai9a38_9: 21300018
+  mipmapLimitGroupName: 
+>>>>>>> Stashed changes
   pSDRemoveMatte: 1
-  pSDShowRemoveMatteOption: 1
   userData: 
   assetBundleName: 
   assetBundleVariant: 
